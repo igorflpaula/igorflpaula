@@ -1,6 +1,6 @@
 ## Olá, bem-vindo(a) ao meu perfil 👋
 
-* Meu nome é Igor Francisco, muitos me conhecem como Bigode. Sou estudante de Engenharia da Computação, atual Presidente do nosso Centro Acadêmico e estagiário na Devlean Manufatura Avançada.
+* Meu nome é Igor Francisco, muitos me conhecem como Bigode. Sou estudante de Engenharia da Computação, atual Presidente do nosso Centro Acadêmico.
 * Tenho paixão no desenvolvimento Web, tanto front-end quanto back-end e estou estudando novas linguagens e melhorando as que eu já conheço sempre!
 
 <div align="center">
