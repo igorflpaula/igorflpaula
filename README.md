@@ -1,8 +1,8 @@
 ## Olá, bem-vindo(a) ao meu perfil 👋
 
 * Meu nome é Igor Francisco, muitos me conhecem como Bigode. Sou estudante de Engenharia de Computação e atual Presidente do nosso Centro Acadêmico.
-* Tenho paixão no desenvolvimento Web, tanto front-end quanto back-end e estou estudando novas linguagens e melhorando as que eu já conheço sempre!
-* Atualmente estou estudando sobre desenvolvimento mobile, sobre as tecnologias utilizadas e o que eu posso aprimorar o desenvolvimento do meu trabalho de conclusão de curso.
+* Tenho paixão no desenvolvimento Web, tanto front-end quanto back-end e estou estudando novas linguagens além de estar aperfeiçoando as que já conheço!
+* Atualmente estou estudando sobre desenvolvimento mobile, sobre as tecnologias utilizadas e o que eu posso aprimorar no desenvolvimento do meu trabalho de conclusão de curso.
 
 <div align="center">
   <a href="https://github.com/igorflpaula" >
