@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently as an Mid-level Developer Analyst at Nubbi<br>🌱 I'm learning about PHP, Laravel and VueJS<br>💻 Passion for Web Development focused in Backend<br>⚡ Bachelor of Computer Engineering and Past President of the Thomas Adam Academic Center
+🔭 I am currently as an Mid-level Developer Analyst at Nubbi<br>🌱 I'm learning about PHP, Laravel and VueJS<br>💻 Passion for Web Development focused in Backend<br>⚡ Bachelor of Computer Engineering and Fraduating from the MBA course in Software Engineering
 
 
 ## 🌐 Socials:
