@@ -10,6 +10,7 @@ Desenvolvedor de Software com foco em Backend, apaixonado por construir soluçõ
 ### 📄 Meu Currículo / My CV
 
 **pt**: Para uma visão detalhada da minha experiência, projetos e formação, acesse meu repositório de currículo, disponível em Português e Inglês.
+
 **en**: For a detailed overview of my experience, projects, and education, please visit my CV repository, available in Portuguese and English.
 
 [![View My CV / Currículo](https://img.shields.io/badge/Acessar_Currículo_/_View_CV-181717?style=for-the-badge&logo=github)](https://github.com/igorflpaula/resume-igor)
