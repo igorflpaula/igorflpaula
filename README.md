@@ -22,7 +22,7 @@ Desenvolvedor de Software com foco em Backend, apaixonado por construir soluçõ
 * 👨‍💻 Atualmente como **Desenvolvedor de Software Pleno** na **Leveduca**.
 * 🛠️ Especializado no ecossistema **PHP, Laravel e Vue.js**.
 * 🎓 Bacharel em **Engenharia de Computação** e cursando **MBA em Full Stack Development**.
-* 📍 Baseado em Poços de Caldas, MG, Brasil 🇧🇷.
+* 📍 Poços de Caldas, MG, Brasil 🇧🇷.
 
 ---
 
